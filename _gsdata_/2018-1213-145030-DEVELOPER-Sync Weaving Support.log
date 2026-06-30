@@ -1,0 +1,16 @@
+2018-12-13 14:50:30: -- Analysis Started by Analyze command
+2018-12-13 14:50:39: /BIN/ADODB.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:39: /BIN/stdole.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:39: /BIN/System.Web.Services.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:39: Changes: 13, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 9384
+2018-12-13 14:50:39: Left to Right: Copy File: 11 
+2018-12-13 14:50:39: Right to Left: Copy File: 2 
+2018-12-13 14:50:39: -- Analysis Complete. Time 00:00:09, Speed: 1,037 files/s
+2018-12-13 14:50:39: 
+2018-12-13 14:53:25: == Sync Started by User Command
+2018-12-13 14:53:25: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: //SERVER/Library/Weaving/IFAS/BIN/_gsdata_/_file_state_v4._gs
+new: [size=11,579 time=2018-12-13 14:53:22] != 
+old: [size=11,609 time=2018-12-13 11:19:27]
+
+2018-12-13 14:53:25: 

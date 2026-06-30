@@ -1,0 +1,30 @@
+2018-12-13 16:24:43: -- Analysis Started by User Command
+2018-12-13 16:24:58: Changes: 21, Conflicts: 0, CopyTime: 0, FixState: 3, Errors: 0, All: 9384
+2018-12-13 16:24:58: Left to Right: Copy File: 9 Delete File: 10 
+2018-12-13 16:24:58: Right to Left: Copy File: 2 
+2018-12-13 16:24:58: -- Analysis Complete. Time 00:00:15, Speed: 622 files/s
+2018-12-13 16:24:58: 
+2018-12-13 16:25:07: == Sync Started by User Command
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/CostCenterGroup.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/EWayHelper.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/ManualPrinting.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/Microsoft.Office.Interop.Excel.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/Microsoft.Office.Interop.Excel.xml'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/Microsoft.Vbe.Interop.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/office.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/office.xml'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/OpenNETCF.Desktop.Communication.dll'
+2018-12-13 16:25:07: Delete File '//server/SUPPORT/WEAVING UPDATIONS/BIN/PackingSlipDosPrint.dll'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AxInterop.Crystal.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/AxInterop.Crystal.dll'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.exe' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.exe'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.pdb' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.pdb'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.vshost.exe'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.xml' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.xml'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.ADOX.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.ADOX.dll'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.CRVIEWERLib.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.CRVIEWERLib.dll'
+2018-12-13 16:25:08: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.Crystal.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.Crystal.dll'
+2018-12-13 16:25:09: Copy Over '//server/SUPPORT/WEAVING UPDATIONS/Reports/CHALLAN/WINDOWS/CreditDebitCommissionGST.rpt' -> '//SERVER/Library/Weaving/IFAS/Reports/CHALLAN/WINDOWS/CreditDebitCommissionGST.rpt'
+2018-12-13 16:25:09: Copy Over '//SERVER/Library/Weaving/IFAS/Reports/Item Reports/TAKA STOCK/TakaStockMILANO.rpt' -> '//server/SUPPORT/WEAVING UPDATIONS/Reports/Item Reports/TAKA STOCK/TakaStockMILANO.rpt'
+2018-12-13 16:25:09: Copy New '//server/SUPPORT/WEAVING UPDATIONS/Reports/Ledger Reports.rar' -> '//SERVER/Library/Weaving/IFAS/Reports/Ledger Reports.rar'
+2018-12-13 16:25:10: == Sync Complete. Time: 00:00:03, Speed: 14.5 MB/s, OK: 24, Errors: 0
+2018-12-13 16:25:10: 

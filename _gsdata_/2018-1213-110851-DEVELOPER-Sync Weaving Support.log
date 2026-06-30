@@ -1,0 +1,12 @@
+2018-12-13 11:08:51: -- Analysis Started by Analyze command
+2018-12-13 11:09:14: Changes: 25, Conflicts: 0, CopyTime: 0, FixState: 1, Errors: 0, All: 9383
+2018-12-13 11:09:14: Left to Right: Copy File: 25 
+2018-12-13 11:09:14: -- Analysis Complete. Time 00:00:23, Speed: 405 files/s
+2018-12-13 11:09:14: 
+2018-12-13 11:18:48: == Sync Started by Sync Only Command
+2018-12-13 11:18:49: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: //SERVER/Library/Weaving/IFAS/BIN/_gsdata_/_file_state_v4._gs
+new: [size=11,570 time=2018-12-13 11:18:47] != 
+old: [size=11,547 time=2018-12-12 11:42:52]
+
+2018-12-13 11:18:49: 

@@ -1,0 +1,22 @@
+2018-12-13 14:50:14: -- Analysis Started by Analyze command
+2018-12-13 14:50:14: /ADODB.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:14: /stdole.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:14: /System.Web.Services.dll: Warning: Older file to replace Newer file
+2018-12-13 14:50:15: Changes: 11, Conflicts: 0, CopyTime: 0, FixState: 1, Errors: 0, All: 360
+2018-12-13 14:50:15: Left to Right: Copy File: 11 
+2018-12-13 14:50:15: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2018-12-13 14:50:15: 
+2018-12-13 14:53:21: == Sync Started by User Command
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/ADODB.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/ADODB.dll'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AxInterop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/AxInterop.Crystal.dll'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.exe' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.exe'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.pdb' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.pdb'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.vshost.exe'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.xml' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.xml'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.ADOX.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.ADOX.dll'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.CRVIEWERLib.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.CRVIEWERLib.dll'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.Crystal.dll'
+2018-12-13 14:53:21: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/stdole.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/stdole.dll'
+2018-12-13 14:53:22: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/System.Web.Services.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/System.Web.Services.dll'
+2018-12-13 14:53:22: == Sync Complete. Time: 00:00:01, Speed: 23.3 MB/s, OK: 12, Errors: 0
+2018-12-13 14:53:22: 

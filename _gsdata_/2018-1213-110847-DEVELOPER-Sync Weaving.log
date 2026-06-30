@@ -1,0 +1,34 @@
+2018-12-13 11:08:47: -- Analysis Started by Analyze command
+2018-12-13 11:08:47: Changes: 26, Conflicts: 0, CopyTime: 0, FixState: 4, Errors: 0, All: 360
+2018-12-13 11:08:47: Left to Right: Copy File: 26 
+2018-12-13 11:08:47: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2018-12-13 11:08:47: 
+2018-12-13 11:18:45: == Sync Started by Sync Only Command
+2018-12-13 11:18:45: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/ADODB.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/ADODB.dll'
+2018-12-13 11:18:45: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AutoMobile.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/AutoMobile.dll'
+2018-12-13 11:18:45: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AxInterop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/AxInterop.Crystal.dll'
+2018-12-13 11:18:45: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/BarcodeConnector.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/BarcodeConnector.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/CartoonDespatch.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/CartoonDespatch.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/CartoonPacking.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/CartoonPacking.dll'
+2018-12-13 11:18:46: Copy New '//SERVER/Library/Weaving/IFAS/BIN/CostCenterGroup.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/CostCenterGroup.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/CostCenterMaster.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/CostCenterMaster.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/DeniorLotGradeTwistAnalysis.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/DeniorLotGradeTwistAnalysis.dll'
+2018-12-13 11:18:46: Copy New '//SERVER/Library/Weaving/IFAS/BIN/EWayHelper.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/EWayHelper.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.exe' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.exe'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.pdb' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.pdb'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.vshost.exe'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe.config' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.vshost.exe.config'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.xml' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.xml'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.ADOX.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.ADOX.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.CRVIEWERLib.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.CRVIEWERLib.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.Crystal.dll'
+2018-12-13 11:18:46: Copy New '//SERVER/Library/Weaving/IFAS/BIN/ManualPrinting.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/ManualPrinting.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Microsoft.VisualBasic.PowerPacks.Vs.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Microsoft.VisualBasic.PowerPacks.Vs.dll'
+2018-12-13 11:18:46: Copy New '//SERVER/Library/Weaving/IFAS/BIN/OpenNETCF.Desktop.Communication.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/OpenNETCF.Desktop.Communication.dll'
+2018-12-13 11:18:46: Copy New '//SERVER/Library/Weaving/IFAS/BIN/PackingSlipDosPrint.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/PackingSlipDosPrint.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/SalePurchaseTransferUtility.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/SalePurchaseTransferUtility.dll'
+2018-12-13 11:18:46: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/stdole.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/stdole.dll'
+2018-12-13 11:18:47: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/System.Web.Services.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/System.Web.Services.dll'
+2018-12-13 11:18:47: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/TakaPacking.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/TakaPacking.dll'
+2018-12-13 11:18:47: == Sync Complete. Time: 00:00:02, Speed: 15.6 MB/s, OK: 30, Errors: 0
+2018-12-13 11:18:47: 

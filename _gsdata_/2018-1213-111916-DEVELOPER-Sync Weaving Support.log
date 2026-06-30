@@ -1,0 +1,33 @@
+2018-12-13 11:19:16: -- Analysis Started by User Command
+2018-12-13 11:19:20: Changes: 25, Conflicts: 0, CopyTime: 0, FixState: 1, Errors: 0, All: 9383
+2018-12-13 11:19:20: Left to Right: Copy File: 25 
+2018-12-13 11:19:20: -- Analysis Complete. Time 00:00:04, Speed: 2,333 files/s
+2018-12-13 11:19:20: 
+2018-12-13 11:19:25: == Sync Started by User Command
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/ADODB.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/ADODB.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AutoMobile.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/AutoMobile.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AxInterop.Crystal.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/AxInterop.Crystal.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/BarcodeConnector.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/BarcodeConnector.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/CartoonPacking.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/CartoonPacking.dll'
+2018-12-13 11:19:25: Copy New '//SERVER/Library/Weaving/IFAS/BIN/CostCenterGroup.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/CostCenterGroup.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/CostCenterMaster.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/CostCenterMaster.dll'
+2018-12-13 11:19:25: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/DeniorLotGradeTwistAnalysis.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/DeniorLotGradeTwistAnalysis.dll'
+2018-12-13 11:19:25: Copy New '//SERVER/Library/Weaving/IFAS/BIN/EWayHelper.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/EWayHelper.dll'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.exe' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.exe'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.pdb' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.pdb'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.vshost.exe'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.vshost.exe.config' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.vshost.exe.config'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.xml' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/IFAS.xml'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.ADOX.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.ADOX.dll'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.CRVIEWERLib.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.CRVIEWERLib.dll'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.Crystal.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Interop.Crystal.dll'
+2018-12-13 11:19:26: Copy New '//SERVER/Library/Weaving/IFAS/BIN/ManualPrinting.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/ManualPrinting.dll'
+2018-12-13 11:19:26: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Microsoft.VisualBasic.PowerPacks.Vs.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/Microsoft.VisualBasic.PowerPacks.Vs.dll'
+2018-12-13 11:19:26: Copy New '//SERVER/Library/Weaving/IFAS/BIN/OpenNETCF.Desktop.Communication.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/OpenNETCF.Desktop.Communication.dll'
+2018-12-13 11:19:26: Copy New '//SERVER/Library/Weaving/IFAS/BIN/PackingSlipDosPrint.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/PackingSlipDosPrint.dll'
+2018-12-13 11:19:27: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/SalePurchaseTransferUtility.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/SalePurchaseTransferUtility.dll'
+2018-12-13 11:19:27: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/stdole.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/stdole.dll'
+2018-12-13 11:19:27: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/System.Web.Services.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/System.Web.Services.dll'
+2018-12-13 11:19:27: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/TakaPacking.dll' -> '//server/SUPPORT/WEAVING UPDATIONS/BIN/TakaPacking.dll'
+2018-12-13 11:19:28: == Sync Complete. Time: 00:00:03, Speed: 15.2 MB/s, OK: 26, Errors: 0
+2018-12-13 11:19:28: 

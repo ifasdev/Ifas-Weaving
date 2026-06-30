@@ -1,0 +1,421 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IFAS
+</name>
+</assembly>
+<members>
+<member name="T:IFAS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.finalmainscreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.ifasicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.LOGIN1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.MainIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.WhastappGreen2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.WhatsappGreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.WhatsAppRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.WhatsAppRed2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IFAS.My.Resources.Resources.Windows_Settings_app_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRAN1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRAN1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.dlyTransaction.DLY_TRAN1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.dsDesignColor">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.dsDesignColor.ITM_DEGNDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.dsDesignColor.ITM_DEGNRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.dsDesignColor.ITM_DEGNRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.outstanding">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.REF_MASTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.REF_MASTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.outstanding.VW_OUTSTANDINGOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.outstanding.REF_MASTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_TAKA_REPTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_MIS_BILLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LED_FRMTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_INT_LEDGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_SAL_SRTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.TAK_VALUDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LBL_PRNTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_TAKA_REPTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_MIS_BILLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LED_FRMTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_INT_LEDGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_SAL_SRTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.TAK_VALURow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LBL_PRNTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_TAKA_REPTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_MIS_BILLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LED_FRMTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_INT_LEDGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_SAL_SRTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.TAK_VALURowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.ALL_DATASET.RPT_LBL_PRNTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.VW_LEDVOUDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALNDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ITM_BALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.vw_ACCCRDRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ACC_CRDRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.VW_LEDVOURow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALNRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ITM_BALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.vw_ACCCRDRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ACC_CRDRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Ledger.VW_LEDVOURowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALNRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ITM_BALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger.vw_ACCCRDRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger.ACC_CRDRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Ledger.LED_BALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Stock">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IFAS.Stock.ITM_MASTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Stock.RPT_GRAYSTOCKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IFAS.Stock.ITM_MASTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Stock.RPT_GRAYSTOCKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IFAS.Stock.ITM_MASTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IFAS.Stock.RPT_GRAYSTOCKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

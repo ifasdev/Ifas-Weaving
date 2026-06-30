@@ -1,0 +1,18 @@
+2018-12-12 11:42:12: -- Analysis Started by Analyze And Sync All
+2018-12-12 11:42:12: Changes: 12, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 360
+2018-12-12 11:42:12: Left to Right: Copy File: 12 
+2018-12-12 11:42:12: == Sync Started by Analyze And Sync All
+2018-12-12 11:42:12: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/AxInterop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/AxInterop.Crystal.dll'
+2018-12-12 11:42:12: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/EmailConfiguration.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/EmailConfiguration.dll'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/GSTReturnCommon.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/GSTReturnCommon.dll'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.exe' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.exe'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.pdb' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.pdb'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/IFAS.xml' -> 'D:/Saisun Products/IFAS Weaving/BIN/IFAS.xml'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.ADOX.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.ADOX.dll'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.CRVIEWERLib.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.CRVIEWERLib.dll'
+2018-12-12 11:42:13: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/Interop.Crystal.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/Interop.Crystal.dll'
+2018-12-12 11:42:14: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/JournalRegister.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/JournalRegister.dll'
+2018-12-12 11:42:14: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/LotRegister.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/LotRegister.dll'
+2018-12-12 11:42:14: Copy Over '//SERVER/Library/Weaving/IFAS/BIN/WeavingReports.dll' -> 'D:/Saisun Products/IFAS Weaving/BIN/WeavingReports.dll'
+2018-12-12 11:42:14: == Sync Complete. Time: 00:00:02, Speed: 13.4 MB/s, OK: 12, Errors: 0
+2018-12-12 11:42:14: 
